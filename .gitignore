@@ -42,3 +42,4 @@ build/
 **/target/
 .idea
 **/HELP.md
+**/.gitattributes
